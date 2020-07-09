@@ -1,12 +1,13 @@
-### Hi there 👋
-
+## Hello there 👋
+$ whoami
+### I'm Manuel, Infrastructure guy obsessed with automation "Infra as Code"...... DevOps wannabe?
 <!--
 **manuh-L/manuh-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... Automation, Infra as Code
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
