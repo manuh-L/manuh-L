@@ -1,5 +1,5 @@
 ## Hello 👋
-´ $ whoami \n
+´ $ whoami
 
 I'm Manuel, Infrastructure guy obsessed with automation "Infra as Code"...... DevOps wannabe?´
 <!--
