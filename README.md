@@ -1,5 +1,5 @@
 ## Hello 👋
-### "$ whoami \n" </kbd> I'm Manuel, Infrastructure guy obsessed with automation "Infra as Code"...... DevOps wannabe?
+### $ whoami <br> I'm Manuel, Infrastructure guy obsessed with automation "Infra as Code"...... DevOps wannabe?
 <!--
 **manuh-L/manuh-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
