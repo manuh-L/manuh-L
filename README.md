@@ -1,5 +1,5 @@
 ## Hello 👋
-#### $ whoami <br> I'm Manuel, Infrastructure guy obsessed with automation "Infra as Code"...... DevOps wannabe?
+#### $ whoami <br> I'm Manuel, Curious Technologist, passionate about virtualization “VMware SDDC stack”, Cloud, Open Source and automation "Infra as Code" IaC....... I love Infrastructure and code “DevOps Wannabe” ?
 <!--
 **manuh-L/manuh-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
