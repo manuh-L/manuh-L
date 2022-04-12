@@ -1,6 +1,6 @@
 ## Hello 👋
 #### $ whoami <br> I'm Manuel, Curious IT, passionate about virtualization VMware, Open Source, and automation "Infra as Code" #IaC...“DevOps/SRE Wannabe”? GitOps 👍👌
-- 🌱 I’m currently learning DevOps/SRE stuff (CI/CD, K8s, IaC, Automation, I work with Linux but...)...
+- 🌱 I’m currently learning DevOps/SRE stuff (CI/CD, K8s, IaC, Automation,observability, I work with Linux but...)...
 - 🤔 I’m looking for help? www.google.com
 - 🔎 I'm searching for happiness!😃
 <!--
