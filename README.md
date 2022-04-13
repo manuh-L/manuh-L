@@ -1,7 +1,7 @@
 ## Hello 👋
 #### $ whoami <br> I'm Manuel, Curious IT, passionate about virtualization VMware, Open Source, and automation "Infra as Code" #IaC...“DevOps/SRE Wannabe”? GitOps 👍👌
 - 🌱 I’m currently learning DevOps/SRE stuff (CI/CD, K8s, IaC, Automation,observability, I work with Linux but...)...
-- 🤔 I’m looking for help? www.google.com
+- 🤔 I’m looking for help...meanwhile www.google.com
 - 🔎 I'm searching for happiness!😃
 <!--
 **manuh-L/manuh-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
