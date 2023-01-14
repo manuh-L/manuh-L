@@ -1,7 +1,7 @@
 ## Hello 👋
 #### $ whoami <br> I'm Manuel, Curious IT, passionate about SRE Practices(DevOps Institute Ambassador) & virtualization VMware(VMware vExpert), embracing Open Source, day-by-day learning automation "Infra as Code" #IaC :snake: ...DevOps Wannabe? SRE :sunglasses: GitOps fan 👍👌
 - 🌱 I’m currently learning and looking for DevOps/SRE stuff (CI/CD, K8s, IaC, Automation,observability, I work with Linux but...)...
-- :bulb: Help me, ping [Twitter](https://twitter.com/Manuhh_L), Linkedin [Linkedin](https://www.linkedin.com/in/manuel-nhiuana/)
+- :bulb: Help me, ping [Twitter](https://twitter.com/Manuhh_L), [Linkedin](https://www.linkedin.com/in/manuel-nhiuana/)
 - 🔎 Searching for happiness, having fun :computer: !😃
 - :penguin: working as Production Engineer
 - :microphone: Leader @ [VMUG Moz](https://www.linkedin.com/company/vmug-mo%C3%A7ambique/about/?viewAsMember=true), [VMware vExpert](https://vexpert.vmware.com/directory/4679), VMware Tanzu Vanguard & Moz DevOps Institute Ambassador.
