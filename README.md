@@ -1,5 +1,5 @@
 ## Hello 👋
-#### $ whoami <br> I'm Manuel, Curious IT, passionate about SRE Practices(DevOps Institute Ambassador) & virtualization VMware(VMware vExpert), embracing Open Source, day-by-day learning automation "Infra as Code" #IaC :snake: ...DevOps Wannabe? SRE :sunglasses: GitOps fan 👍👌
+#### $ whoami <br> I'm Manuel, Curious IT, passionate about SRE Practices(DevOps Institute Ambassador) & virtualization VMware(VMware vExpert), embracing Open Source, day-by-day improving operational efficiency & services reliability :snake: ...DevOps Wannabe? SRE :sunglasses: GitOps fan 👍👌
 - 🌱 SRE 24/7 with SLO 99,9999 availability, hate Toil, mastering (CI/CD, K8s, IaC, Automation, Observability, I work with Linux but...)...
 - :bulb: whereis me: [Twitter](https://twitter.com/Manuhh_L), [Linkedin](https://www.linkedin.com/in/manuel-nhiuana/)
 - 🔎 Searching for happiness, having fun :computer: !😃
