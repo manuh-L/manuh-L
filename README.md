@@ -1,11 +1,12 @@
 ## Hello 👋
 #### $ whoami <br> I'm Manuel, Curious IT, passionate about SRE Practices(DevOps Institute Ambassador) & virtualization VMware(VMware vExpert), embracing Open Source, day-by-day learning automation "Infra as Code" #IaC :snake: ...DevOps Wannabe? SRE :sunglasses: GitOps fan 👍👌
-- 🌱 I’m currently learning and looking for DevOps/SRE stuff (CI/CD, K8s, IaC, Automation,observability, I work with Linux but...)...
-- :bulb: Help me, ping [Twitter](https://twitter.com/Manuhh_L), [Linkedin](https://www.linkedin.com/in/manuel-nhiuana/)
+- 🌱 SRE 24/7 with SLO 99,9999 availability, hate Toil, mastering (CI/CD, K8s, IaC, Automation, Observability, I work with Linux but...)...
+- :bulb: whereis me: [Twitter](https://twitter.com/Manuhh_L), [Linkedin](https://www.linkedin.com/in/manuel-nhiuana/)
 - 🔎 Searching for happiness, having fun :computer: !😃
 - :penguin: working as Production Engineer
 - :microphone: Leader @ [VMUG Moz](https://www.linkedin.com/company/vmug-mo%C3%A7ambique/about/?viewAsMember=true), [VMware vExpert](https://vexpert.vmware.com/directory/4679), VMware Tanzu Vanguard & Moz DevOps Institute Ambassador.
 - :page_with_curl: www.virtualclusterit.com
+- :page_with_curl: https://youtube.com/@talkingit2540?si=Air-WKMMnCI1XDyA
 <!--
 **manuh-L/manuh-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
