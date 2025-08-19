@@ -6,7 +6,7 @@
 - :penguin: working as Production Engineer
 - :microphone: Leader @ [VMUG Moz](https://www.linkedin.com/company/vmug-mo%C3%A7ambique/about/?viewAsMember=true), [VMware vExpert](https://vexpert.vmware.com/directory/4679), VMware Tanzu Vanguard & Moz DevOps Institute Ambassador.
 - :page_with_curl: www.virtualclusterit.com
-- :page_with_curl: https://youtube.com/@talkingit2540?si=Air-WKMMnCI1XDyA
+- :page_with_curl: [TalkingIT](https://youtube.com/@talkingit2540?si=Air-WKMMnCI1XDyA)
 <!--
 **manuh-L/manuh-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
